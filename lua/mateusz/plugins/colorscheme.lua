@@ -11,6 +11,7 @@ return {
 			local fg = "#CBE0F0"
 			local fg_dark = "#B4D0E9"
 			local fg_gutter = "#627E97"
+			-- local fg_gutter = "#2EFFF6"
 			local border = "#547998"
 
 			require("tokyonight").setup({
