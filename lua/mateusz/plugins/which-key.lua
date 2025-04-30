@@ -27,6 +27,7 @@ return {
 			{ "<leader>t", group = "Tabs" },
 			{ "<leader>w", group = "Save and restore sessions" },
 			{ "<leader>x", group = "Code diagnostics" },
+			{ "<leader>es", group = "Open in split or tab" },
 		})
 	end,
 }
